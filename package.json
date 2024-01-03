@@ -1,7 +1,7 @@
 {
   "name": "DubaKaraokePub",
   "version": "0.1.0",
-  "homepage": "git@github.com:itsrichardmai/DubaKaraokePub.git",
+  "homepage": "https://itsrichardmai.github.io/DubaKaraokePub/",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.1",
@@ -26,7 +26,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "DubaKaraokePub -d build"
+    "deploy": "gh-pages -b master -d build"
   },
   "eslintConfig": {
     "extends": [
