@@ -11,9 +11,9 @@ const AboutUs = () => (
 
     <div className="app__aboutus-content flex__center">
       <div className="app__aboutus-content_about">
-        <h1 className="headtext__cormorant">About Us</h1>
+        <h1 className="headtext__cormorant">About Duba</h1>
         <img src={images.spoon} alt="about_spoon" className="spoon__img" />
-        <p className="p__opensans">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis pharetra adipiscing ultrices vulputate posuere tristique. In sed odio nec aliquet eu proin mauris et.</p>
+        <p className="p__opensans">DUBA is the perfect spot to grab a couple of friends for a fun night out or bring the whole house for karaoke craziness!</p>
         <button type="button" className="custom__button">Know More</button>
       </div>
 
@@ -24,7 +24,7 @@ const AboutUs = () => (
       <div className="app__aboutus-content_history">
         <h1 className="headtext__cormorant">Our History</h1>
         <img src={images.spoon} alt="about_spoon" className="spoon__img" />
-        <p className="p__opensans">Adipiscing tempus ullamcorper lobortis odio tellus arcu volutpat. Risus placerat morbi volutpat habitasse interdum mi aliquam In sed odio nec aliquet.</p>
+        <p className="p__opensans">We are new state-of-art karaoke lounge with the Karaoke entertainment equipment and an extensive library of Korean, English, and Chinese songs updated monthly. We feature 8 private rooms each with unique themes and varying sizes for groups of 4 to 30. All rooms offer full bar service for your convenience</p>
         <button type="button" className="custom__button">Know More</button>
       </div>
     </div>

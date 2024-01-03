@@ -1,5 +1,6 @@
 import React from 'react';
 
+import './FindUs.css';
 import { SubHeading } from '../../components';
 import { images } from '../../constants';
 
@@ -9,18 +10,21 @@ const FindUs = () => (
       <SubHeading title="Contact" />
       <h1 className="headtext__cormorant" style={{ marginBottom: '3rem' }}>Find Us</h1>
       <div className="app__wrapper-content">
-        <p className="p__opensans">Lane Ends Bungalow, Whatcroft Hall Lane, Rudheath, CW9 75G</p>
+        <p className="p__opensans">Phone: 215-635-3822 </p>
+        <p className="p__opensans"><a href="https://dubakaraokepub.com/#contact" className="shinylink"> Make a reservation!</a></p>
+        <p className="p__opensans">1333 W. Cheltenham Ave, FL Basement, Elkins Park, PA 19027</p>
         <p className="p__cormorant" style={{ color: '#DCCA87', margin: '2rem 0' }}>Opening Hours</p>
-        <p className="p__opensans">Mon - Fri: 10:00 am - 02:00 am</p>
-        <p className="p__opensans">Sat - Sun: 10:00 am - 03:00 am</p>
+        <p className="p__opensans">Friday-Saturday: 5:00pm-02:00am</p>
+        <p className="p__opensans">Sunday-Thursday: 5:00pm-01:00am</p>
       </div>
       <button type="button" className="custom__button" style={{ marginTop: '2rem' }}>Visit Us</button>
     </div>
 
     <div className="app__wrapper_img">
-      <img src={images.findus} alt="finus_img" />
+      <img src={images.findus} alt="findus_img" />
     </div>
   </div>
 );
 
 export default FindUs;
+

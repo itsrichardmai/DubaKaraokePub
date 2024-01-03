@@ -1,82 +1,82 @@
 import images from './images';
 
-const wines = [
+const whiskeys = [
   {
-    title: 'Chapel Hill Shiraz',
-    price: '$56',
-    tags: 'AU | Bottle',
+    title: 'Suntory Toki Blended Nikka Taketsuru Pure Malt',
+    price: 's/p',
+    tags: 'JP | Shot / Rocks | 43%',
   },
   {
-    title: 'Catena Malbee',
-    price: '$59',
-    tags: 'AU | Bottle',
+    title: 'Suntory Hibiki Harmony',
+    price: 's/p',
+    tags: 'JP | Shot / Rocks / 43%',
   },
   {
-    title: 'La Vieillw Rose',
-    price: '$44',
-    tags: 'FR | 750 ml',
+    title: 'JAMESON',
+    price: 's/p',
+    tags: 'Irish | Shot / Rocks | 40%',
   },
   {
-    title: 'Rhino Pale Ale',
-    price: '$31',
-    tags: 'CA | 750 ml',
+    title: 'Glenlivet 18 years',
+    price: 's/p',
+    tags: '18 years | Shot / Rocks | 34%',
   },
   {
-    title: 'Irish Guinness',
-    price: '$26',
-    tags: 'IE | 750 ml',
+    title: 'Johnnie Walker Blue',
+    price: 's/p',
+    tags: 'Scotch-blended | Shot / Rocks | 40%',
   },
 ];
 
 const cocktails = [
   {
-    title: 'Aperol Sprtiz',
+    title: 'Strawberry/Lemonade/Mango/Soju/Peach Caprisun',
     price: '$20',
-    tags: 'Aperol | Villa Marchesi prosecco | soda | 30 ml',
+    tags: 'Select Flavor | Charm Soju | Soda | Capirsun Pouch',
   },
   {
-    title: "Dark 'N' Stormy",
-    price: '$16',
-    tags: 'Dark rum | Ginger beer | Slice of lime',
+    title: 'Shooters',
+    price: 's/p',
+    tags: 'Green Tea | Lemon Drop | Irish Car Bomb | Jager Bomb | ',
   },
   {
-    title: 'Daiquiri',
+    title: 'Bay Breeze',
     price: '$10',
-    tags: 'Rum | Citrus juice | Sugar',
+    tags: 'Vodka | Pineapple Juice | Cranberry',
   },
   {
-    title: 'Old Fashioned',
-    price: '$31',
-    tags: 'Bourbon | Brown sugar | Angostura Bitters',
+    title: 'Tokyo Tea',
+    price: '$20',
+    tags: 'Vodka | Rum | Gin | Tequlia | Triple Sec | Midori | S&S Mix | Sprite',
   },
   {
-    title: 'Negroni',
-    price: '$26',
-    tags: 'Gin | Sweet Vermouth | Campari | Orange garnish',
+    title: 'Yuzu Mule',
+    price: '20',
+    tags: 'Yuzu | Vodka | Ginger Beer',
   },
 ];
 
 const awards = [
   {
     imgUrl: images.award02,
-    title: 'Bib Gourmond',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    title: '#1 World Famous Korean Fried Chicken',
+    subtitle: 'famous in 57 countries',
   },
   {
     imgUrl: images.award01,
-    title: 'Rising Star',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    title: '#2 Rising Star',
+    subtitle: 'Featured on Philly Mag.',
   },
   {
     imgUrl: images.award05,
     title: 'AA Hospitality',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    subtitle: 'Our staff are trained to provide the highest level of service for every guest!',
   },
   {
     imgUrl: images.award03,
-    title: 'Outstanding Chef',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    title: 'Outstanding Selection',
+    subtitle: 'We take great pride in carrying only the finest liquor.',
   },
 ];
 
-export default { wines, cocktails, awards };
+export default { whiskeys, cocktails, awards };
