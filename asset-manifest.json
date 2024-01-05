@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/DubaKaraokePub/static/css/main.46ea32a0.chunk.css",
-    "main.js": "/DubaKaraokePub/static/js/main.086a5fb2.chunk.js",
-    "main.js.map": "/DubaKaraokePub/static/js/main.086a5fb2.chunk.js.map",
+    "main.css": "/DubaKaraokePub/static/css/main.844ddd99.chunk.css",
+    "main.js": "/DubaKaraokePub/static/js/main.36aead2b.chunk.js",
+    "main.js.map": "/DubaKaraokePub/static/js/main.36aead2b.chunk.js.map",
     "runtime-main.js": "/DubaKaraokePub/static/js/runtime-main.8549fc5f.js",
     "runtime-main.js.map": "/DubaKaraokePub/static/js/runtime-main.8549fc5f.js.map",
     "static/js/2.fedb9328.chunk.js": "/DubaKaraokePub/static/js/2.fedb9328.chunk.js",
     "static/js/2.fedb9328.chunk.js.map": "/DubaKaraokePub/static/js/2.fedb9328.chunk.js.map",
     "index.html": "/DubaKaraokePub/index.html",
-    "static/css/main.46ea32a0.chunk.css.map": "/DubaKaraokePub/static/css/main.46ea32a0.chunk.css.map",
+    "static/css/main.844ddd99.chunk.css.map": "/DubaKaraokePub/static/css/main.844ddd99.chunk.css.map",
     "static/js/2.fedb9328.chunk.js.LICENSE.txt": "/DubaKaraokePub/static/js/2.fedb9328.chunk.js.LICENSE.txt",
     "static/media/G.b571eb82.png": "/DubaKaraokePub/static/media/G.b571eb82.png",
     "static/media/award01.361a4bc4.png": "/DubaKaraokePub/static/media/award01.361a4bc4.png",
@@ -16,9 +16,9 @@
     "static/media/award03.3f7ee934.png": "/DubaKaraokePub/static/media/award03.3f7ee934.png",
     "static/media/award05.48a7f520.png": "/DubaKaraokePub/static/media/award05.48a7f520.png",
     "static/media/App.css": "/DubaKaraokePub/static/media/bg.3d421b1b.png",
-    "static/media/chef.02d6c5b6.png": "/DubaKaraokePub/static/media/chef.02d6c5b6.png",
+    "static/media/chef.fa6d444b.png": "/DubaKaraokePub/static/media/chef.fa6d444b.png",
     "static/media/dubalogo.fb918988.png": "/DubaKaraokePub/static/media/dubalogo.fb918988.png",
-    "static/media/findus.585c393c.png": "/DubaKaraokePub/static/media/findus.585c393c.png",
+    "static/media/findus.868bebf8.png": "/DubaKaraokePub/static/media/findus.868bebf8.png",
     "static/media/gallery01.089abdfd.png": "/DubaKaraokePub/static/media/gallery01.089abdfd.png",
     "static/media/gallery02.b296b266.png": "/DubaKaraokePub/static/media/gallery02.b296b266.png",
     "static/media/gallery03.265f2fc5.png": "/DubaKaraokePub/static/media/gallery03.265f2fc5.png",
@@ -29,17 +29,17 @@
     "static/media/knife.3d3b73c5.png": "/DubaKaraokePub/static/media/knife.3d3b73c5.png",
     "static/media/laurels.265ef9c9.png": "/DubaKaraokePub/static/media/laurels.265ef9c9.png",
     "static/media/logo.0286194c.png": "/DubaKaraokePub/static/media/logo.0286194c.png",
-    "static/media/meal.a1b6c6dc.mp4": "/DubaKaraokePub/static/media/meal.a1b6c6dc.mp4",
+    "static/media/meal.bd271b95.mp4": "/DubaKaraokePub/static/media/meal.bd271b95.mp4",
     "static/media/menu.a8287c67.png": "/DubaKaraokePub/static/media/menu.a8287c67.png",
     "static/media/overlaybg.165362ee.png": "/DubaKaraokePub/static/media/overlaybg.165362ee.png",
     "static/media/sign.9bf0bd90.png": "/DubaKaraokePub/static/media/sign.9bf0bd90.png",
-    "static/media/spoon.b5681c86.svg": "/DubaKaraokePub/static/media/spoon.b5681c86.svg",
+    "static/media/spoon.82b19f98.svg": "/DubaKaraokePub/static/media/spoon.82b19f98.svg",
     "static/media/welcome.55cc8187.png": "/DubaKaraokePub/static/media/welcome.55cc8187.png"
   },
   "entrypoints": [
     "static/js/runtime-main.8549fc5f.js",
     "static/js/2.fedb9328.chunk.js",
-    "static/css/main.46ea32a0.chunk.css",
-    "static/js/main.086a5fb2.chunk.js"
+    "static/css/main.844ddd99.chunk.css",
+    "static/js/main.36aead2b.chunk.js"
   ]
 }
