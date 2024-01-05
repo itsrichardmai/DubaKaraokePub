@@ -24,7 +24,7 @@ const AboutUs = () => (
       <div className="app__aboutus-content_history">
         <h1 className="headtext__cormorant">Our History</h1>
         <img src={images.spoon} alt="about_spoon" className="spoon__img" />
-        <p className="p__opensans">We are new state-of-art karaoke lounge with the Karaoke entertainment equipment and an extensive library of Korean, English, and Chinese songs updated monthly. We feature 8 private rooms each with unique themes and varying sizes for groups of <b>4 to 30</b>. All rooms offer full bar service for your convenience</p>
+        <p className="p__opensans">We are new state-of-art karaoke lounge with the Karaoke entertainment equipment and an extensive library of Korean, English, and Chinese songs updated monthly. We feature 8 private rooms each with unique themes and varying sizes for groups of <b style={{ color: '#d2c38e', textDecoration: 'underline' }}>4 to 30</b>. All rooms offer full bar service for your convenience</p>
         <button type="button" className="custom__button">Know More</button>
       </div>
     </div>
