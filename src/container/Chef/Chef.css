@@ -49,3 +49,7 @@
         width: 80%;
     }
 }
+
+.bordered {
+    border: gold 10px solid
+}

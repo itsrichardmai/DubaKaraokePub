@@ -7,24 +7,24 @@ import './Chef.css';
 const Chef = () => (
   <div className="app__bg app__wrapper section__padding">
     <div className="app__wrapper_img app__wrapper_img-reverse">
-      <img src={images.chef} alt="chef_image" />
+      <img className="bordered" src={images.chef} alt="chef_image" />
     </div>
     <div className="app__wrapper_info">
-      <SubHeading title="Chef's word" />
+      <SubHeading title="Duba's Mission" />
       <h1 className="headtext__cormorant">What we believe in</h1>
 
       <div className="app__chef-content">
         <div className="app__chef-content_quote">
           <img src={images.quote} alt="quote_image" />
-          <p className="p__opensans">Lorem ipsum dolor sit amet, consectetur adipiscing elit auctor sit .</p>
+          <p className="p__opensans">We pride ourselves on treating each and everyone of our guests as our friends and family</p>
         </div>
-        <p className="p__opensans"> auctor sit iaculis in arcu. Vulputate nulla lobortis mauris eget sit. Nulla scelerisque scelerisque congue ac consequat, aliquam molestie lectus eu. Congue iaculis integer curabitur semper sit nunc. </p>
+        <br />
+        <p className="p__opensans">We strive to provide a great dining experience for everyone. Group meals where we guests spend time together with family and friends is one of the most important things to make sure we do well. We want to be a valuable part of making that happen.</p>
       </div>
 
       <div className="app__chef-sign">
-        <p>Kevin Luo</p>
-        <p className="p__opensans">Chef & Founder</p>
-        <img src={images.sign} alt="sign_image" />
+        <p>Shawn Park</p>
+        <p className="p__opensans">Management & Owner</p>
       </div>
     </div>
   </div>

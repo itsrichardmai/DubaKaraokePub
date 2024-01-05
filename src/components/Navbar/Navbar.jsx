@@ -14,11 +14,11 @@ const Navbar = () => {
         <img src={images.dubalogo} alt="app__logo" />
       </div>
       <ul className="app__navbar-links">
-        <li className="p__opensans"><FontAwesomeIcon icon={faHome} /><a href="#home">Home</a></li>
-        <li className="p__opensans"><FontAwesomeIcon icon={faAddressCard} /><a href="#about">About</a></li>
-        <li className="p__opensans"><FontAwesomeIcon icon={faBeerMugEmpty} /><a href="#menu">Menu</a></li>
-        <li className="p__opensans"><FontAwesomeIcon icon={faStar} /><a href="#awards">Awards</a></li>
-        <li className="p__opensans"><FontAwesomeIcon icon={faPhoneVolume} /><a href="#contact">Contact</a></li>
+        <li className="button p__opensans"><FontAwesomeIcon icon={faHome} /><a href="#home">Home</a></li>
+        <li className="button p__opensans"><FontAwesomeIcon icon={faAddressCard} /><a href="#about">About</a></li>
+        <li className="button p__opensans"><FontAwesomeIcon icon={faBeerMugEmpty} /><a href="#menu">Menu</a></li>
+        <li className="button p__opensans"><FontAwesomeIcon icon={faStar} /><a href="#awards">Awards</a></li>
+        <li className="button p__opensans"><FontAwesomeIcon icon={faPhoneVolume} /><a href="#contact">Contact</a></li>
       </ul>
       <div className="app__navbar-login">
         <a href="#login" className="p__opensans">Log In / Register</a>

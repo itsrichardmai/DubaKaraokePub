@@ -175,3 +175,16 @@
     line-height: 70px;
   }
 }
+
+@media screen and (max-width: 430px) {
+  .p_opensans {
+    font-size: 10px;
+  }
+  .p__cormorant { 
+    font-size: 17px;
+  }
+  .headtext__cormorant { 
+    font-size: 40px;
+    line-height: 60px;
+  }
+}
